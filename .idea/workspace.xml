@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fce77489-e7c4-4dd5-93d9-0698df40726b" name="Default Changelist" comment="connected component finder from images....overlapping and non-overlapping.">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connected_component.iml" beforeDir="false" afterPath="$PROJECT_DIR$/connected_component.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/connected_component/com/company/Main$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/connected_component/com/company/Main$Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/connected_component/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/connected_component/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eA6bIvVDzBHXrFh9KzOEU8tibO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="connected_component" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fce77489-e7c4-4dd5-93d9-0698df40726b" name="Default Changelist" comment="" />
+      <created>1593752120288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593752120288</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="connected component finder from images....overlapping and non-overlapping." />
+    <option name="LAST_COMMIT_MESSAGE" value="connected component finder from images....overlapping and non-overlapping." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1593927494131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1593927494131" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593927614403">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1593927614403" />
+    <state width="1493" height="182" key="GridCell.Tab.0.bottom" timestamp="1594121256413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="272" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593842876990" />
+    <state width="1493" height="182" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594121256413" />
+    <state width="1493" height="182" key="GridCell.Tab.0.center" timestamp="1594121256413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="272" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593842876990" />
+    <state width="1493" height="182" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594121256413" />
+    <state width="1493" height="182" key="GridCell.Tab.0.left" timestamp="1594121256413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="272" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593842876990" />
+    <state width="1493" height="182" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594121256413" />
+    <state width="1493" height="182" key="GridCell.Tab.0.right" timestamp="1594121256413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="272" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593842876990" />
+    <state width="1493" height="182" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594121256413" />
+    <state width="1493" height="182" key="GridCell.Tab.1.bottom" timestamp="1594121256413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="93" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593841758877" />
+    <state width="1493" height="182" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594121256413" />
+    <state width="1493" height="182" key="GridCell.Tab.1.center" timestamp="1594121256413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="93" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1593841758877" />
+    <state width="1493" height="182" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594121256413" />
+    <state width="1493" height="182" key="GridCell.Tab.1.left" timestamp="1594121256413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="93" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1593841758877" />
+    <state width="1493" height="182" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594121256413" />
+    <state width="1493" height="182" key="GridCell.Tab.1.right" timestamp="1594121256413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="93" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1593841758877" />
+    <state width="1493" height="182" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594121256413" />
+    <state x="348" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1593832511037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1593832511037" />
+    <state x="209" y="33" key="new project wizard" timestamp="1594111657372">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1594111657372" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Connected_components_of_image$Main.ic" NAME="Main Coverage Results" MODIFIED="1593927626781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
